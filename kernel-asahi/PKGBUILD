@@ -1,5 +1,5 @@
 # AArch64 Apple Silicon (Asahi Linux)
-# Maintainer: Janne Grunau <j@jannau.net>
+# Maintainer: Knedlik (knedlik@trainmazeland.com)
 
 buildarch=8
 
